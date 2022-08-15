@@ -27,9 +27,16 @@ set -U fish_user_paths $fish_user_paths $HOME/.cargo/bin
 - `cargo-clippy`: Checks a package to catch common mistakes and improve your Rust code
 - `rustdoc`: Documentation tool
 
-### Intellij Rust
+### IntelliJ Rust
 
 https://www.jetbrains.com/rust/
+
+### Clippy
+
+`Preferences` > `Languages & Frameworks` > `Rust` > `External Linters`
+
+- `External tool`: **Clippy**
+  - `Run external linter to analyze code on the fly`: **Checked**
 
 ## Demo
 
