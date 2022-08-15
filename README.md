@@ -38,6 +38,13 @@ https://www.jetbrains.com/rust/
 - `External tool`: **Clippy**
   - `Run external linter to analyze code on the fly`: **Checked**
 
+### rustfmt
+
+`Preferences` > `Languages & Frameworks` > `Rust` > `Rustfmt`
+
+- `Use rustfmt instead of the built-in formatter`: **Checked**
+- `Run rustfmt on Save`: **Checked**
+
 ## Demo
 
 ## Features
