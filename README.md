@@ -47,6 +47,17 @@ https://www.jetbrains.com/rust/
 
 ## Demo
 
+```shell
+cargo run --release
+```
+
+```shell
+   Compiling hello-rust v0.1.0 (/Users/yanagiharas/Works/rust/hello-rust)
+    Finished release [optimized] target(s) in 1.08s
+     Running `target/release/hello-rust`
+Hello, world!
+```
+
 ## Features
 
 - feature:1
