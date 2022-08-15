@@ -1,6 +1,6 @@
-# Name
+# Hello World with Rust
 
-Overview
+This is the Rust installation and Hello World
 
 ## Description
 
