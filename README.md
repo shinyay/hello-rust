@@ -31,6 +31,10 @@ set -U fish_user_paths $fish_user_paths $HOME/.cargo/bin
 
 https://www.jetbrains.com/rust/
 
+#### Cargo support
+
+![cargo](https://user-images.githubusercontent.com/3072734/185937277-364e4144-6fed-46ba-a53b-1517d0af6e50.png)
+
 ### Clippy
 
 `Preferences` > `Languages & Frameworks` > `Rust` > `External Linters`
